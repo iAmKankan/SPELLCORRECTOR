@@ -1,10 +1,8 @@
 # SPELLING CORRECTOR
 
-PROBLEM STAEMENT
-
-In this project we will be using deep learning approaches to build a spelling corrector.
-
-DESCRIPTION OVERVIEW
+## DESCRIPTION OVERVIEW
+![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
+![light](https://user-images.githubusercontent.com/12748752/181097751-9be22081-c630-4756-9ea8-2c27fdce6984.png)
 
 A word needs to be checked for spelling correctness and corrected if necessary, many a time in the context of the surrounding words. A spellchecker points to spelling errors and possibly suggests alternatives. An autocorrector usually goes a step further and automatically picks the most likely word. In case of the correct word already having been typed, the same is retained.
 
