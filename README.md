@@ -136,5 +136,5 @@ We can build better accurate models using pretrained models like **BERT**, **GPT
 
 ## Download Link & Reference
 ![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
-* [Drive](https://drive.google.com/drive/folders/1nltm3l76f3nvlc-qyC_Uz8u7sAHkp9H0?usp=sharing)
+* [Drive](https://drive.google.com/drive/folders/1VJO_7kN9HeqGMqZobQ7iaVuzYzKCWKa4?usp=sharing)
 * **Time**- _00-March-22,00:00_
