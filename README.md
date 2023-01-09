@@ -2,7 +2,6 @@
 
 ## DESCRIPTION OVERVIEW
 ![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
-![light](https://user-images.githubusercontent.com/12748752/181097751-9be22081-c630-4756-9ea8-2c27fdce6984.png)
 
 A word needs to be checked for spelling correctness and corrected if necessary, many a time in the context of the surrounding words. A spellchecker points to spelling errors and possibly suggests alternatives. An autocorrector usually goes a step further and automatically picks the most likely word. In case of the correct word already having been typed, the same is retained.
 
@@ -132,4 +131,10 @@ Here we have successfully built a spelling checker and corrector which can be us
 ## COMPARISION
 ![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
 
-We can build better accurate models using pretrained models like BERT, GPT2 etc. Also here we have given very less training data but the user can increase the sizing of training data which will help to build a better model with better prediction.
+We can build better accurate models using pretrained models like **BERT**, **GPT2** etc. Also here we have given very less training data but the user can increase the sizing of training data which will help to build a better model with better prediction.
+
+
+## Download Link & Reference
+![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
+* [Drive](https://drive.google.com/drive/folders/1nltm3l76f3nvlc-qyC_Uz8u7sAHkp9H0?usp=sharing)
+* **Time**- _00-March-22,00:00_
