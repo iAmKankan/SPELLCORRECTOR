@@ -1,5 +1,5 @@
-# SPELLING CORRECTOR
-
+# <p align="center"> SPELLING CORRECTOR </p>
+ 
 ## DESCRIPTION OVERVIEW
 ![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
 
